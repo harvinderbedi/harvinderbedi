@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harvinderbedi (Harvinder Singh Bedi)
 - 👀 Interested in programming and research
 - 🌱 I have recently graduated in Computer Science with the skillset; HTML, CSS, JavaScript, Java, Python
-- 💞️ Looking for a role in Web Development or Software Development
+- 💞️ Currently in testing, eyes are on cyber
 - 📫 LinkedIn: https://www.linkedin.com/in/harvinderbedi-hb/
 
 <!---
